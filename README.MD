@@ -1,8 +1,8 @@
 # Currently
-Current Size:
-4,096 KB
+##Current Size:\n
+**4,096 KB**
 
-Current Features:
+##Current Features:
 - Renders two words
 
 # How?
