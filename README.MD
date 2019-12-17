@@ -1,12 +1,14 @@
 # Currently
-### Current Size:
+#### Current Size:
 **4,096 KB**
 
-### Current Features:
+#### Current Features:
 - Renders two words
 
 # How?
-Rust! `#[no-std]`! 
+- Rust
+- `#[no-std]`
+- Using winuser rendering that's already built into Windows
 
 # Credits
 All set in motion by this blog post.
