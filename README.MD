@@ -1,5 +1,5 @@
 # Current Size:
-**4,096 KB**
+**4,096 bytes**
 
 # Current Features:
 - [x] Renders two words

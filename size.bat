@@ -3,4 +3,4 @@ cargo build --release
 cd ./target/release
 
 echo[
-dir | findstr tinygame.exe
+dir | findstr smolrpg.exe
