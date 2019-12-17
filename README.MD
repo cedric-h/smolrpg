@@ -2,7 +2,7 @@
 **4,096 KB**
 
 # Current Features:
-[X] Renders two words
+[x] Renders two words
 
 # How?
 - Rust
