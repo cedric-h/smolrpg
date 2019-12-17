@@ -10,8 +10,7 @@
 - Using winuser rendering that's already built into Windows
 
 # Credits
-All set in motion by this blog post.
-https://www.codeslow.com/2019/12/tiny-windows-executable-in-rust.html
+This was all set in motion by [this blog post](https://www.codeslow.com/2019/12/tiny-windows-executable-in-rust.html).
 If it weren't for this blog post, I wouldn't have even attempted this craziness.
 
 Thanks to [Ralith](https://github.com/Ralith) for making the `hecs` ECS library and helping me write a `#[no_std]` PR for it.
